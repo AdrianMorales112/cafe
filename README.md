@@ -1,4 +1,3 @@
-¡Claro! Aquí tienes un ejemplo de archivo README.md para tu repositorio de GitHub de una página web de una cafetería. Puedes copiarlo directamente y luego personalizarlo con los detalles específicos de tu proyecto.
 
 ☕ TimeCoffe - Tu Café Favorito en Línea
 📝 Descripción del Proyecto
