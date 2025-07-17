@@ -38,30 +38,3 @@ CSS3: Estilos y diseño visual, incluyendo animaciones y transiciones.
 
 JavaScript: Para interactividad y funcionalidades dinámicas (ej. carrusel de imágenes, validación de formularios, etc.).
 
-🚀 Cómo Iniciar el Proyecto (Localmente)
-Sigue estos pasos para tener una copia local del proyecto ejecutándose en tu máquina:
-
-1. Clona el Repositorio
-Abre tu terminal o Git Bash y ejecuta el siguiente comando:
-
-git clone https://github.com/AdrianMorales112/TimeCoffe.git
-2. Navega al Directorio del Proyecto
-Una vez clonado, accede a la carpeta del proyecto:
-
-cd TimeCoffe
-3. Abre el Archivo index.html
-Simplemente abre el archivo index.html en tu navegador web preferido (Chrome, Firefox, Edge, etc.). No se necesita un servidor web local complejo para visualizar esta página estática.
-
-📂 Estructura de Archivos
-Una breve descripción de la estructura principal de carpetas y archivos:
-
-TimeCoffe/
-├── index.html              # Página principal de la web
-├── css/
-│   └── style.css           # Hoja de estilos principal
-├── js/
-│   └── script.js           # Archivo JavaScript para interactividad
-├── img/
-│   ├── logo.png            # Logotipo de la cafetería
-│   └── ...                 # Otras imágenes del sitio (productos, ambiente, etc.)
-└── README.md               # Este archivo
